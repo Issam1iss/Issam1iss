@@ -11,7 +11,12 @@
 * **Front-End:** React.js, TypeScript
 * **Databases & Cloud:** PostgreSQL, Oracle, AWS
 * **Other:** Docker, Git, Python
-
+<div align="center">
+  <h3> Technologies & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,nodejs,postgres,aws,docker,git,python&perline=5" />
+  </a>
+</div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Issam1iss&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issam1iss&layout=compact&theme=tokyonight&hide_border=true" />
